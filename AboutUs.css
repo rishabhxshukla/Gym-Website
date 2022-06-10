@@ -1,0 +1,30 @@
+body{
+    background-color:mintcream;
+}
+.heading{
+    color:firebrick;
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+}
+
+
+
+.image{
+    height: 55px;
+}
+
+
+
+h1{
+    font-size: 40px;
+    color:indigo;
+}
+
+
+
+p{
+    font-size: 22px;
+    line-height: 150%;
+    word-spacing: 0.3em;
+}
